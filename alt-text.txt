@@ -1,0 +1,17 @@
+# Alt text for images
+
+# Logo
+
+Logo for the #TidyTuesday Project, it's the words TidyTuesday overlaying a black paint splash
+
+
+# Instructions
+
+The data set comes from the source article or the source that the article credits. Be mindful that the data is what it is and Tidy Tuesday is designed to help you practice data visualization and basic data wrangling in R.
+This is NOT about criticizing the original article or graph. Real people made the graphs, collected or acquired the data! Focus on the provided dataset, learning, and improving your techniques in R.
+This is NOT about criticizing or tearing down your fellow #RStats practitioners or their code! Be supportive and kind to each other! Like other's posts and help promote the #RStats community!
+Use the hashtag #TidyTuesday on Twitter if you create your own version and would like to share it.
+Include a picture of the visualisation.
+Include a copy of the code used to create your visualization.
+Focus on improving your craft, even if you end up with something simple!
+Give credit to the original data source whenever possible.
